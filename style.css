@@ -4,34 +4,6 @@ html, body {
   background-color: #140B07;
 }
 
-
-
-p{
-  font-weight: bold;
-  color:white;
-}
-th{
-  font-weight: bold;
-  color:white;
-}
-td{
-  font-weight:bold;
-  color:white;
-}
-h3{
-  font-weight:bold;
-  color:white;
-}
-h1{
-  font-weight: bold;
-  color:white;
-}
-
-label{
-  font-weight: bold;
-  color:white
-}
-
 a:link{
   color:yellow;
 }
@@ -40,4 +12,18 @@ a:visited{
   color:white;
 }
 
+.seçao1{
+  font-weight: bold;
+  color: white;
+}
+
+.seçao2{
+  font-weight: bold;
+  color: white;
+}
+
+.seçao3{
+  font-weight: bold;
+  color: white;
+}
 
